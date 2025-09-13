@@ -23,9 +23,5 @@ jobs:
     - name: Run tests
     run npm run test
 
-    - name: Run application
-    run npm run run
-
-    - name: Deploy to server
-    run npm run deploy
+    
     
